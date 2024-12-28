@@ -66,9 +66,6 @@ src="https://cardivo.vercel.app/api?name=SHABAN%20MD%20V2&description=🪀THE%20
 
 -----------    
 
-`♡︎ IF YOU WANT MORE ABOUT SHABAN-SOBX-MD WHATSAPP BOT :-NEW UPDATED NEW CMDS SO JOIN OUR WHATSAPP GROUP FOR MORE INFORMATION CLICK THIS RED BUTTON 🔳 AND JOIN THE GROUP ♡︎`
-
----------
 
 <a href="https://whatsapp.com/channel/0029VazjYjoDDmFZTZ9Ech3O"><img src="https://img.shields.io/badge/%F0%9F%8E%89%20ᴊᴏɪɴ%20ᴏᴜʀ%20ᴡʜᴀᴛsᴀᴘᴘ%20ᴄʜᴀɴɴᴇʟ-red" alt="😍 ᴊᴏɪɴ ᴍʏ ᴡʜᴀᴛsᴀᴘᴘ ɢʀᴏᴜᴘ ғᴏʀ ᴜᴘᴅᴀᴛᴇ 😍" width="300"></a>
 
@@ -78,9 +75,9 @@ src="https://cardivo.vercel.app/api?name=SHABAN%20MD%20V2&description=🪀THE%20
 
 👁️‍🗨️ 𝘼𝙉𝙏𝙄𝙑𝙄𝙒𝙊𝙉𝙀𝙎
 
-👁️‍🗨️ 𝘼𝙇𝙇 𝘿𝙊𝙒𝙉𝙇𝙊𝘼𝘿𝙀𝙍 𝘾𝙈𝘿𝙎
+👁️‍🗨️ 𝘼𝙇𝙇 𝘿𝙊𝙒𝙉𝙇𝙊𝘼𝘿𝙀𝙍
 
-👁️‍🗨️ 𝘼𝙉𝙏𝙄𝙇𝙄𝙉𝙆 𝙂𝙍𝙊𝙐𝙋
+👁️‍🗨️ 𝘼𝗟 𝗤𝗨𝗥𝗔𝗡
 
 👁️‍🗨️ 𝙐𝙍𝙇 𝙄𝙈𝘼𝙂𝙀 
 
@@ -102,7 +99,7 @@ src="https://cardivo.vercel.app/api?name=SHABAN%20MD%20V2&description=🪀THE%20
 
 👁️‍🗨️ 𝘼𝙉𝙏𝙄 𝙃𝙀𝙍𝙊𝙆𝙐 𝘽𝘼𝙉
 
-👁️‍🗨️ 𝘼𝙇𝙇 𝙊𝙁 𝙔𝙊𝙐𝙍 𝙉𝙀𝙀𝘿𝙎 𝙄𝙉 𝙊𝙉𝙀 𝘽𝙊𝙏
+👁️‍🗨️︎ 𝘼𝙇𝙇 𝙊𝙁 𝙔𝙊𝙐𝙍 𝙉𝙀𝙀𝘿𝙎 𝙄𝙉 𝙊𝙉𝙀 𝘽𝙊𝙏
 
 --------------
 
@@ -114,7 +111,11 @@ src="https://cardivo.vercel.app/api?name=SHABAN%20MD%20V2&description=🪀THE%20
 ----------
 
 <p align="center">
-<a href="https://megapair-5ca54da6f820.herokuapp.com/"><img height= "35" title="Author" src="https://img.shields.io/badge/GET SESSION ID-1:-green?style=for-the-badge&logo=heroku"></a>
+<a href="https://megapair1-369d58255813.herokuapp.com/"><img height= "35" title="Author" src="https://img.shields.io/badge/GET SESSION ID-1:-green?style=for-the-badge&logo=heroku"></a>
+<p/>
+
+<p align="center">
+<a href="https://megapair2-be7b315a8a6c.herokuapp.com/"><img height= "35" title="Author" src="https://img.shields.io/badge/GET SESSION ID-2:-blue?style=for-the-badge&logo=heroku"></a>
 <p/>
 
 ----------
