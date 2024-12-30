@@ -1,10 +1,10 @@
 ---------
-
-</p> <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rubik+Dirt&size=65&pause=1000&color=F89C75F&background=FF20A500&center=true&vCenter=true&width=1000&height=150&lines=THANK+YOU;FOR+USIN+SHABAN+SOBX+MD" alt="Typing SVG" /></a>
-
+         🎉𝗛𝗔𝗣𝗣𝗬 𝗡𝗘𝗪 𝗬𝗘𝗔𝗥🎉
+                                             👑𝗠𝗥 𝗦𝗛𝗔𝗕𝗔𝗡👑
 ----------
-![SHABAN-SOBX-MD](https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=800&color=008080&center=true&vCenter=true&width=600&lines=🥰+**𝐀𝐚𝐬𝐥𝐚𝐦𝐎𝐀𝐚𝐥𝐢𝐤𝐮𝐦**+❣️+**EVERYONE**+👋🏻;😍+**WELCOME+TO+SHABAN+MD+BOT**+💙;❤️+**THE+ULTIMATE+WHATSAPP+BOT+EXPERIENCE!**;🎉+**ENJOY+UNLIMITED+FEATURES+AND+COMMANDS!**;⚡+**FAST+%7C+RELIABLE+%7C+USER-FRIENDLY+BOT!**;🥳+**LET'S+GET+STARTED!**)
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=THANKS FOR YOUR +SUPPORT-DONT; FORGET+TO+FORK+MYrepo;CREATED+BY+MR SHABAN;RELEASED+20.12.2024" alt="Typing SVG" /></a>
+
 ----------
 
 <a><img src='https://i.ibb.co/9N1sJ41/Manul-Ofc-X.gif'/></a>
@@ -27,12 +27,6 @@
 </p>
 
 ------------
-
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-
---------------
-
 ![repo views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMRSHABAN40%2FSHABAN-SOBX-MD&count_bg=%2379C83D&title_bg=%23555555&icon=gitpod.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false)
 
 
@@ -53,21 +47,23 @@ src="https://cardivo.vercel.app/api?name=SHABAN%20MD%20V2&description=🪀THE%20
 
 ------------------
 
+👇 Contact Me on WhatsApp  🤝
+[![Contact Me on WhatsApp](https://img.shields.io/static/v1?label=Contact%20Me%20on%20WhatsApp&message=Message&color=25D366&style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923059395959)
 
-### <br> ❀ 𝐅𝐎𝐑 𝐒𝐔𝐏𝐏𝐎𝐑𝐓 ❀
+<br>
+  
+👇 Follow My WhatsApp Channel 🤝 
+[![Follow My WhatsApp Channel](https://img.shields.io/static/v1?label=Follow%20My%20WhatsApp%20Channel&message=follow&color=25D366&style=for-the-badge&logo=whatsapp&logoColor=white)](https://whatsapp.com/channel/0029VazjYjoDDmFZTZ9Ech3O)
 
-**`➩ HII DEARS FRIENDS IF YOU WANT ANY HELP SO YOU CAN CONTACT↘︎ WITH ME WIA WHATSAPP ITS ME MR✩SHABAN`**
+<br>
 
--------
+👇 Subscribe to My Channel on YouTube 🤝 
+[![Subscribe to My Channel on YouTube](https://img.shields.io/static/v1?label=Subscribe%20to%20My%20Channel&message=YouTube&color=FF0000&style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@mrshaban282?si=Mmp8uT0UZsRqvKnq)
 
-<p align="center">
-  <a href="https://wa.me/+923059395959?text=*ʜɪɪ+ᴍʀsʜᴀʙᴀɴ--+ɪ+ɴᴇᴇᴅ+ʜᴇʟᴘ!.+ɪ+ᴍᴇssᴀɢᴇᴅ+ʏᴏᴜ+ғʀᴏᴍ+sʜᴀʙᴀɴ-sᴏʙx-ᴍᴅ+ʀᴇᴘᴏ!!*" target="_blank">
-    <img alt="whatsapp" src="https://img.shields.io/badge/ Whatsapp -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<br>
 
------------    
-
-
-<a href="https://whatsapp.com/channel/0029VazjYjoDDmFZTZ9Ech3O"><img src="https://img.shields.io/badge/%F0%9F%8E%89%20ᴊᴏɪɴ%20ᴏᴜʀ%20ᴡʜᴀᴛsᴀᴘᴘ%20ᴄʜᴀɴɴᴇʟ-red" alt="😍 ᴊᴏɪɴ ᴍʏ ᴡʜᴀᴛsᴀᴘᴘ ɢʀᴏᴜᴘ ғᴏʀ ᴜᴘᴅᴀᴛᴇ 😍" width="300"></a>
+👇 Follow My GitHub 🤝
+[![Follow My GitHub](https://img.shields.io/static/v1?label=Follow%20My%20GitHub&message=GitHub&color=181717&style=for-the-badge&logo=github&logoColor=white)](https://github.com/MRSHABAN40)
 
 -----------
 
@@ -103,16 +99,7 @@ src="https://cardivo.vercel.app/api?name=SHABAN%20MD%20V2&description=🪀THE%20
 
 --------------
 
-### <br>  ✰ 𝐒𝐄𝐒𝐒𝐈𝐎𝐍_𝐢𝐃 ✰
-
-
-`✠ IF YOU DON'T HAVE YOUR SESSION_ID SO U CAN GET IT CLICK ON SESSION_ID BUTTON AND PASTE YOUR NUMBER With COUNTRY CODE EXAMPLE:+92309XXXX THEN YOU CAN GET YOUR SESSION_ID ✠`
-
-----------
-
-<p align="center">
-<a href="https://megapair1-369d58255813.herokuapp.com/"><img height= "35" title="Author" src="https://img.shields.io/badge/GET SESSION ID-1:-green?style=for-the-badge&logo=heroku"></a>
-<p/>
+[![Get Session ID Here](https://img.shields.io/static/v1?label=Session%20ID&message=Generate&color=FF4500&style=for-the-badge&logo=firefox&logoColor=white)](https://megapair1-369d58255813.herokuapp.com/)
 
 ----------
  
@@ -124,9 +111,9 @@ src="https://cardivo.vercel.app/api?name=SHABAN%20MD%20V2&description=🪀THE%20
 </p>
 
 ------------
- 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new-app?template=https://github.com/MRSHABAN40/SHABAN-SOBX-MD)
 
+ [![Deploy to Heroku](https://img.shields.io/static/v1?label=Deploy%20to&message=Heroku&color=430098&style=for-the-badge&logo=heroku&logoColor=white)](https://dashboard.heroku.com/new?template=https://github.com/MRSHABAN40/SHABAN-SOBX-MD)
+ 
 ------------
 ### <br> ❖👇DEPLOY_GETHUB👇❖
 
@@ -194,3 +181,6 @@ _I’m not responsible for you messing around and getting your account banned. A
 </p>
     
 ***
+
+## No LOVE 💕 NO STRESS ☺️
+
