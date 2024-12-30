@@ -103,7 +103,7 @@ src="https://cardivo.vercel.app/api?name=SHABAN%20MD%20V2&description=🪀THE%20
 
 --------------
 
-### <br>    ✰ 𝐒𝐄𝐒𝐒𝐈𝐎𝐍_𝐢𝐃 ✰
+### <br>  ✰ 𝐒𝐄𝐒𝐒𝐈𝐎𝐍_𝐢𝐃 ✰
 
 
 `✠ IF YOU DON'T HAVE YOUR SESSION_ID SO U CAN GET IT CLICK ON SESSION_ID BUTTON AND PASTE YOUR NUMBER With COUNTRY CODE EXAMPLE:+92309XXXX THEN YOU CAN GET YOUR SESSION_ID ✠`
@@ -114,13 +114,9 @@ src="https://cardivo.vercel.app/api?name=SHABAN%20MD%20V2&description=🪀THE%20
 <a href="https://megapair1-369d58255813.herokuapp.com/"><img height= "35" title="Author" src="https://img.shields.io/badge/GET SESSION ID-1:-green?style=for-the-badge&logo=heroku"></a>
 <p/>
 
-<p align="center">
-<a href="https://betapair-5aa42034dce1.herokuapp.com/"><img height= "35" title="Author" src="https://img.shields.io/badge/GET SESSION ID-2:-blue?style=for-the-badge&logo=heroku"></a>
-<p/>
-
 ----------
  
-### <br>   ✫ 𝗗𝗘𝗣𝗟𝗢𝗬_𝗛𝗘𝗥𝗢𝗞𝗨 ✫
+### <br>     ✫ 𝗗𝗘𝗣𝗟𝗢𝗬_𝗛𝗘𝗥𝗢𝗞𝗨 ✫
 
 <p align="center">
    <a href="https://youtu.be/eHyyFWSktqI?si=4Gd69MJBS65_Px5f"><img src="https://i.ibb.co/71mYRh4/116-1161192-podcast-subscribe-listen-button-youtube-sign-hd-png.png" alt="Watch tutorial on YouTube" border="0"  width="105">
