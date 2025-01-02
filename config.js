@@ -28,6 +28,6 @@ module.exports = {
     HEART_REACT: process.env.HEART_REACT || "false",
     OWNER_REACT: process.env.OWNER_REACT || "false",
     BOT_NAME: process.env.BOT_NAME || "ᴍʀ_sʜᴀʙᴀɴ",
-    STATUS_REPLY: process.env.STATUS_REPLY || "`Hacked`",
+    STATUS_REPLY: process.env.STATUS_REPLY || "`Hack`",
     OMDB_API_KEY: process.env.OMDB_API_KEY || "76cb7f39", // omdbapi.com
 };
