@@ -12,7 +12,7 @@ module.exports = {
     AUTO_REPLY_STATUS: process.env.AUTO_REPLY_STATUS || "false",
     READ_MESSAGE: process.env.READ_MESSAGE || "false", // Added auto-read configuration
     MODE: process.env.MODE || "public",
-    AUTO_VOICE: process.env.AUTO_VOICE || "false",
+    AUTO_VOICE: process.env.AUTO_VOICE || "true",
     AUTO_STICKER: process.env.AUTO_STICKER || "false",
     AUTO_REPLY: process.env.AUTO_REPLY || "false",
     ALIVE_IMG: process.env.ALIVE_IMG || "https://i.ibb.co/9N1sJ41/Manul-Ofc-X.jpg",
