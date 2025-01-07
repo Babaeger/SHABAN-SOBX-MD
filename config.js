@@ -9,7 +9,7 @@ SESSION_ID: process.env.SESSION_ID || "SHABAN-SOBX-MD~3Zpn2QzL#4RRqIXlzGaKi44ea9
 // add your Session Id 
 AUTO_STATUS_SEEN: process.env.AUTO_STATUS_SEEN || "true",
 // make true or false status auto seen
-AUTO_STATUS_REPLY: process.env.AUTO_STATUS_REPLY || "true",
+AUTO_STATUS_REPLY: process.env.AUTO_STATUS_REPLY || "false",
 // make true if you want auto reply on status 
 AUTO_STATUS_MSG: process.env.AUTO_STATUS__MSG || "*Jᴜsᴛ Nᴏᴡ Sᴛᴀᴛᴜs Sᴇᴇɴ Bʏ ᯽Sʜᴀʙᴀɴ-Sᴏʙx-Mᴅ᯽*",
 // set the auto reply massage on status reply  
