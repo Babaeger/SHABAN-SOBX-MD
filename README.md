@@ -1,12 +1,6 @@
-----------
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=THANKS FOR YOUR +SUPPORT-DONT; FORGET+TO+FORK+MYrepo;CREATED+BY+MR SHABAN;RELEASED+24-12-2024" alt="Typing SVG" /></a>
-
-----------
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=THANKS FOR YOUR +SUPPORT-DONT; FORGET+SATAR+FORK+MYREPO;CREATED+BY+MR SHABAN;RELEASED+24-12-2024" alt="Typing SVG" /></a>
+<img src="https://i.imgur.com/dBaSKWF.gif" height="70" width="100%">
 <a><img src='https://i.ibb.co/9N1sJ41/Manul-Ofc-X.gif'/></a>
-
--------
 
  </p>
   <p align="center">
@@ -21,78 +15,54 @@
   <!-- Developer -->
   <img src="https://img.shields.io/static/v1?label=OWNER&message=MR%20SHABAN&color=blue&style=plastic" alt="Developer Badge">
 </p>        
+
+<p align="center">
+  <a href="https://github.com/MRSHABAN40/SHABAN-SOBX-MD"><img title="Release" src="https://img.shields.io/badge/Release-beta%20v5-darkcyan.svg?style=for-the-badge&logo=appveyor" /></a>
+ 
+[![Contact Me on WhatsApp](https://img.shields.io/static/v1?label=Contact%20Me%20on%20WhatsApp&message=Message&color=25D366&style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923059395959)
+[![Follow My WhatsApp Channel](https://img.shields.io/static/v1?label=Follow%20My%20WhatsApp%20Channel&message=follow&color=25D366&style=for-the-badge&logo=whatsapp&logoColor=white)](https://whatsapp.com/channel/0029VazjYjoDDmFZTZ9Ech3O) 
+[![Subscribe to My Channel on YouTube](https://img.shields.io/static/v1?label=Subscribe%20to%20My%20Channel&message=YouTube&color=FF0000&style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@mrshaban282?si=Mmp8uT0UZsRqvKnq)
+[![Follow My GitHub](https://img.shields.io/static/v1?label=Follow%20My%20GitHub&message=GitHub&color=181717&style=for-the-badge&logo=github&logoColor=white)](https://github.com/MRSHABAN40)
+
 <a          href="https://github.com/MRSHABAN40/SHABAN-SOBX-MD/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
 </p>
 <p align='center'>
          
 </p>
 
-<p align="center">
-  <a href="https://github.com/MRSHABAN40/SHABAN-SOBX-MD"><img title="Release" src="https://img.shields.io/badge/Release-beta%20v5-darkcyan.svg?style=for-the-badge&logo=appveyor" /></a>
-</p>
+### 𝗟𝗜𝗖𝗘𝗡𝗦𝗘: [Click here](https://github.com/MRSHABAN40/SHABAN-SOBX-MD/blob/main/LICENSE)
 
+-------------------------
 
-<img align="center" height="auto"
-src="https://cardivo.vercel.app/api?name=SHABAN%20MD%20V3.0.0&description=🪀THE%20WORLD%20BEST%20WHATSAPP%20BOT%★%20CREATED%20BY%20MR%20SHABAN♥️&image=https://i.ibb.co/wwkxCP7/Manul-Ofc-X.jpg?v=4&backgroundColor=%23ecf0f1&github=MRSHABAN40&pattern=leaf&colorPattern=%23eaeaea"/>
+***BOT FEATURES 💌***
 
-👇 Contact Me on WhatsApp  🤝
-[![Contact Me on WhatsApp](https://img.shields.io/static/v1?label=Contact%20Me%20on%20WhatsApp&message=Message&color=25D366&style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923059395959)
+| Menu ⁠➜ | Bot | Group | Search | Download | Tools | Ai | Viewonce | Fun | Status Reply | Status Reacts | Convert | Autoreacts |
+| --------| --- | ----- | ------ | -------- | ----- | -- | ---- | --- | ----- | ----| --------| -----|
+| Work ➜ | ✅ | ✅ | ✅ | ✅ | ✅  | ✅ | ✅ |  ✅ | ✅ | ✅ | ✅ | ✅ |
 
-<br>
-  
-👇 Follow My WhatsApp Channel 🤝 
-[![Follow My WhatsApp Channel](https://img.shields.io/static/v1?label=Follow%20My%20WhatsApp%20Channel&message=follow&color=25D366&style=for-the-badge&logo=whatsapp&logoColor=white)](https://whatsapp.com/channel/0029VazjYjoDDmFZTZ9Ech3O)
+---------------------
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=𝗙𝗢𝗥𝗞+𝗔𝗡𝗗+𝗦𝗧𝗔𝗥+𝗥𝗘𝗣𝗢)](https://git.io/typing-svg)
+<a href="https://github.com/MRSHABAN40/SHABAN-SOBX-MD/fork"><img title="SHABAN-SOBX-MD" src="https://img.shields.io/badge/FORK-SHABAN SOBX MD-h?color=green&style=for-the-badge&logo=stackshare"></a>
 
-<br>
-
-👇 Subscribe to My Channel on YouTube 🤝 
-[![Subscribe to My Channel on YouTube](https://img.shields.io/static/v1?label=Subscribe%20to%20My%20Channel&message=YouTube&color=FF0000&style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@mrshaban282?si=Mmp8uT0UZsRqvKnq)
-
-<br>
-
-👇 Follow My GitHub 🤝
-[![Follow My GitHub](https://img.shields.io/static/v1?label=Follow%20My%20GitHub&message=GitHub&color=181717&style=for-the-badge&logo=github&logoColor=white)](https://github.com/MRSHABAN40)
-
-### <br> ♣️ 𝘽𝙊𝙏 𝙁𝙀𝘼𝙏𝙐𝙍𝙀𝙎 ♣️
-
-📢 𝗔𝗡𝗧𝗜𝗩𝗘𝗪𝗢𝗡𝗖𝗘
-
-📢 𝗔𝗟𝗟 𝗗𝗢𝗪𝗡𝗟𝗢𝗔𝗗𝗜𝗡𝗚
-
-📢 𝗜𝗠𝗚 𝗦𝗘𝗔𝗥𝗖𝗛
-
-📢 𝘼𝙐𝙏𝙊 𝙍𝙀𝘼𝘾𝙏 𝙈𝙀𝘼𝙎𝙎𝘼𝙂𝙀
-
-📢 𝘼𝙐𝙏𝙊 𝙎𝙏𝘼𝙏𝙐𝙎 𝙑𝙄𝙀𝙒
-
-📢 𝘼𝙐𝙏𝙊 𝙎𝙏𝘼𝙏𝙐𝙎 𝙍𝙀𝙋𝙇𝙔
-
-📢 𝘼𝙐𝙏𝙊 𝙎𝙏𝘼𝙏𝙐𝙎 𝙍𝙀𝘼𝘾𝙏
-
-📢 𝙋𝘼𝙄𝙍 𝙎𝙀𝙎𝙎𝙄𝙊𝙉 𝘾𝙊𝙈𝙈𝘼𝙉𝘿
-
-📢 𝘼𝙐𝙏𝙊𝙍𝙀𝘼𝘿
-
-📢 𝙊𝙒𝙉𝙀𝙍 𝘾𝙊𝙈𝙈𝘼𝙉𝘿
-
-📢 𝘼𝙉𝙏𝙄𝙇𝙄𝙉𝙆
-
-📢 𝘼𝙉𝙏𝙄 𝙃𝙀𝙍𝙊𝙆𝙐 𝘽𝘼𝙉
-
-📢 𝙐𝙍𝙇 𝙄𝙈𝙂 & 𝙑𝙄𝘿𝙀𝙊
-
-📢 𝘼𝙇𝙇 𝙊𝙁 𝙔𝙊𝙐𝙍 𝙉𝙀𝙀𝘿𝙎 𝙄𝙉 𝙊𝙉𝙀 𝘽𝙊𝙏
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=𝗦𝗘𝗦𝗦𝗜𝗢𝗡+𝗜𝗗+𝗦𝗜𝗧𝗘+𝗜𝗦+𝗛𝗘𝗥𝗘)](https://git.io/typing-svg)
 [![Get Session ID 1 Here](https://img.shields.io/static/v1?label=Session%20ID&message=Generate&color=FF4500&style=for-the-badge&logo=firefox&logoColor=white)](https://shaban-sobx-md-7b3eadacd0ee.herokuapp.com/)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=𝗗𝗘𝗣𝗟𝗢𝗬+𝗢𝗡+𝗛𝗘𝗥𝗢𝗞𝗨)](https://git.io/typing-svg)
  [![Deploy to Heroku](https://img.shields.io/static/v1?label=Deploy%20to&message=Heroku&color=430098&style=for-the-badge&logo=heroku&logoColor=white)](https://dashboard.heroku.com/new?template=https://github.com/MRSHABAN40/SHABAN-SOBX-MD)
 
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=𝗗𝗘𝗣𝗟𝗢𝗬+𝗢𝗡+𝗞𝗢𝗬𝗘𝗕)](https://git.io/typing-svg)
 [![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?name=shaban-sobx-md&repository=MRSHABAN40%2FSHABAN-SOBX-MD&branch=main&builder=dockerfile&instance_type=free&regions=was&env%5BPREFIX%5D=.&env%5BSESSION_ID%5D=&env%5BMODE%5D=public&env%5BAUTO_STATUS_SEEN%5D=true&env%5BAUTO_TYPING%5D=false&env%5BANTI_LINK%5D=true&env%5BAUTO_REACT%5D=false&env%5BOWNER_NUMBER%5D=)
+
+
+<details>
+
+<b><strong><summary align="center" style="color: Yello;">Deploy On Workflow</summary></strong></b>
+<p style="text-align: center; font-size: 1.2em;">
  
-------------
-### <br> ❖👇DEPLOY_GETHUB👇❖
+<h8>Copy the workflow codes and then frok the repo edit config add session id then save and now click on repo action tag then click on start new workflow then paste workflow codes name them deploy and save the file</h8>
+<h3 align-"center"> Important</h3>
+<h6 align-"center">Attention! We do not take responsibility if your github account is suspended through this Deploy method, I advise you not to use this workflow deploy method in the latest github accounts, github accounts created a year or more ago have not received the risk of suspension so far, this works It will only be done for 6 hours, you need to update the code to reactivate it.</h6>
 
-
-### <br> ❖ DEPLOY_WORKFLOWS ❖
 ```
 name: Node.js CI
 
@@ -128,12 +98,11 @@ jobs:
     - name: Start application
       run: npm start
 ```
+</details> 
 
------------
+***
 
 `⚡ HOW TO DEPLOY SHABAN-SOBX-MD ON WORKFLOWS FREE GITHUB WATCH VIDEO 👇`
-
--------------
 
 <p align="center">
    <a href="https://youtu.be/xxw7uG5Xb6M?si=cwdTifhYH5INDSFD"><img src="https://i.ibb.co/71mYRh4/116-1161192-podcast-subscribe-listen-button-youtube-sign-hd-png.png" alt="Watch tutorial on YouTube" border="0"  width="105">
