@@ -66,13 +66,13 @@
 
     "AUTO_STATUS_REPLY": {
       "description": "Make it true for auto reply msg on status seen.",
-      "required": true,
+      "required": false,
       "value": "true"
     }, 
 
     "AUTO_STATUS_MSG": {
       "description": "Type custom message on status reply",
-      "required": true,
+      "required": false,
       "value": "*Jᴜsᴛ Nᴏᴡ Sᴛᴀᴛᴜs Sᴇᴇɴ Bʏ ᯽Sʜᴀʙᴀɴ-Sᴏʙx-Mᴅ᯽*"
    
      }, 
