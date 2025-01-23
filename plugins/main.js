@@ -36,34 +36,13 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
 ┃◈┃• img
 ┃◈┃• tt2
 ┃◈┃• pins
-┃◈┃• apk2
-┃◈┃• fb2
 ┃◈┃• pinterest 
 ┃◈┃• spotify
-┃◈┃• play
 ┃◈┃• play2
-┃◈┃• play3
-┃◈┃• play4
-┃◈┃• play5
-┃◈┃• play6
-┃◈┃• play7
-┃◈┃• play8
-┃◈┃• play9
-┃◈┃• play10
 ┃◈┃• audio
-┃◈┃• video
 ┃◈┃• video2
-┃◈┃• video3
-┃◈┃• video4
-┃◈┃• video5
-┃◈┃• video6
-┃◈┃• video7
-┃◈┃• video8
-┃◈┃• video9
-┃◈┃• video10
 ┃◈┃• ytmp3
 ┃◈┃• ytmp4
-┃◈┃• song
 ┃◈┃• darama
 ┃◈┃• gdrive
 ┃◈┃• ssweb
@@ -162,7 +141,6 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
 ╭━━〔 *Convert Menu* 〕━━┈⊷
 ┃◈╭─────────────·๏
 ┃◈┃• sticker
-┃◈┃• sticker2
 ┃◈┃• emojimix
 ┃◈┃• fancy
 ┃◈┃• take
@@ -193,12 +171,9 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
 ┃◈┃• blackbox
 ┃◈┃• luma
 ┃◈┃• dj 
-┃◈┃• khan
-┃◈┃• jawad
 ┃◈┃• gpt4
 ┃◈┃• bing
-┃◈┃• imagine 
-┃◈┃• imagine2
+┃◈┃• imag
 ┃◈┃• copilot
 ┃◈└───────────┈⊷
 ╰──────────────┈⊷
@@ -252,30 +227,21 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
 ╰──────────────┈⊷
 ╭━━〔 *Other Menu* 〕━━┈⊷
 ┃◈╭─────────────·๏
-┃◈┃• timenow
-┃◈┃• date
-┃◈┃• count
-┃◈┃• calculate
-┃◈┃• countx
-┃◈┃• flip
-┃◈┃• coinflip
-┃◈┃• rcolor
-┃◈┃• roll
 ┃◈┃• fact
 ┃◈┃• cpp
 ┃◈┃• rw
 ┃◈┃• pair
 ┃◈┃• pair2
-┃◈┃• pair3
 ┃◈┃• fancy
 ┃◈┃• logo <text>
 ┃◈┃• define
 ┃◈┃• news
 ┃◈┃• movie
 ┃◈┃• weather
-┃◈┃• srepo
 ┃◈┃• insult
 ┃◈┃• save
+┃◈┃• send
+┃◈┃• send me
 ┃◈┃• wikipedia
 ┃◈┃• gpass
 ┃◈┃• githubstalk
@@ -288,7 +254,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
         await conn.sendMessage(
             from,
             {
-                image: { url: `https://i.ibb.co/MDPGw0G/shaban-sobx-md.jpg` },
+                image: { url: `https://i.ibb.co/nbr8SCs/shaban-sobx-md.jpg` },
                 caption: dec,
                 contextInfo: {
                     mentionedJid: [m.sender],

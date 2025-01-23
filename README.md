@@ -1,5 +1,7 @@
+<img alt="Coder GIF" height=45 width=300 src="https://64.media.tumblr.com/90e31332d6ec20e6ac7bca8bc3869931/59f4fa39824ee661-8a/s500x750/da3086bfaac8fdac32f2453d60d002b2c6dcf1be.gif" />
+
+
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=THANKS FOR YOUR +SUPPORT-DONT; FORGET+SATAR+FORK+MYREPO;CREATED+BY+MR SHABAN;RELEASED+24-12-2024" alt="Typing SVG" /></a>
-<img src="https://i.imgur.com/dBaSKWF.gif" height="70" width="100%">
 <a><img src='https://i.ibb.co/9N1sJ41/Manul-Ofc-X.gif'/></a>
 
  </p>
@@ -30,7 +32,9 @@
 ![license](https://img.shields.io/github/license/MRSHABAN40/SHABAN-SOBX-MD?color=green&label=License&style=plastic)
 
 -------------------------
-***BOT FEATURES 💌***
+
+
+***BOT FEATURE ⬇️***
 
 | Menu ⁠➜ | Heroku Deploy | Group | Pair | Download | Tools | Ai | Viewonce | Fun | Status Reply | Status Reacts | Convert | Autoreacts |
 |--------|---|-----|------|--------|-----|--|----|---|-----|----|--------|-----|
@@ -51,6 +55,7 @@
  [![Deploy to Heroku](https://img.shields.io/static/v1?label=Deploy%20to&message=Heroku&color=430098&style=for-the-badge&logo=heroku&logoColor=white)](https://dashboard.heroku.com/new?template=https://github.com/MRSHABAN40/SHABAN-SOBX-MD)
 
  ----------------------
+ 
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=𝗗𝗘𝗣𝗟𝗢𝗬+𝗢𝗡+𝗛𝗨𝗚𝗚𝗜𝗡𝗚𝗙𝗔𝗖𝗘)](https://git.io/typing-svg)
 <p style="text-align: center; font-size: 1.2em;">
   
@@ -64,14 +69,8 @@
 </a>
 <br>
 
--------------------------
+-----------------------------------
 
-
-<details>
-
-<b><strong><summary align="center" style="color: Yello;">Deploy On Workflow</summary></strong></b>
-<p style="text-align: center; font-size: 1.2em;">
- 
 <h8>Copy the workflow codes and then frok the repo edit config add
 Work
 [![Work Flow Code WhatsApp Channel](https://img.shields.io/static/v1?label=Work%20Flow%20Click%20Copy&message=link&color=25D366&style=for-the-badge&logo=whatsapp&logoColor=white)](https://whatsapp.com/channel/0029VazjYjoDDmFZTZ9Ech3O/438) 
@@ -86,8 +85,13 @@ Work
 </p>
 
 <br>
-<img alt="Coder GIF" height=250 width=350 src="https://i.gifer.com/GYny.gif" />
+<img alt="Coder GIF" height=250 width=350 src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbjGcAL0l_DqfHSB912Au-hzylVbPyZ_1Tbw&s.gif" />
 <br>
+
+<details>
+
+<b><strong><summary align="center" style="color: Yello;">NO CLICK BEACARFULY</summary></strong></b>
+<p style="text-align: center; font-size: 1.2em;">
 
 ### <br> No LOVE 💕 NO STRESS ☺️
 
